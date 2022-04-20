@@ -1,11 +1,11 @@
 module.exports = {
-    title: 'ITDTP Notes',
-    description: 'ITDTP Notes',
+    title: 'MWS Log',
+    description: 'MWS Log',
     themeConfig: {
         smoothScroll: true,
         lastUpdated: 'Last Updated',
         nav: [
-            { text: 'Motion',
+            { text: 'Updating',
             items: [
                 {text: 'Cinema 4D', items:[
                     {text: 'C4D', link: '/Cinema 4D/'},
@@ -17,7 +17,7 @@ module.exports = {
                 ]},
             ]  
         },
-            { text: 'Coding',
+            { text: 'Updating',
             items: [
                 {text: 'Front-End', items:[
                     {text: 'p5.js', link: '/Code/Front-End/p5js/'},
@@ -60,7 +60,7 @@ module.exports = {
                 ]},
             ] 
         },
-            { text: 'Portfolio', link: 'https://irwinqi.com'},
+            { text: 'Our Main Website', link: 'https://millenniumweb.io/'},
         ],
         sidebar: 'auto'
     },
