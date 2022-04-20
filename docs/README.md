@@ -1,10 +1,10 @@
 ---
 home: true
 heroImage: images/hero.png
-heroText: Irwin's Notes
-tagline: 欢迎来到二文的的笔记本
+heroText: Millenium Web Strategies
+tagline: Still updating
 actionText: 回到Portfolio
-actionLink: https://irwinqi.com
+actionLink: https://google.com
 features:
 - title: Motion
   details: 也就随便做做动画
@@ -15,20 +15,6 @@ features:
 footer: MIT Licensed Powered by VuePress | Copyright © 2022 | Irwin Qi
 ---
 
-# Welcome 欢迎
-### 最近在整个啥？
-
-#### 好好学习
-
-[Navigo](./nyu/ux/1navigo) 
-
-NYU Summer Class项目
-
-
-
-#### 随缘健身
-
-[Exercise Science](./Exercise/Exercise%20Science)
-
-
+# Welcome 
+Still working on it 
 
