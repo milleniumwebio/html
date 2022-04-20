@@ -7,7 +7,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "/html",
+  "repository": "https://github.com/milleniumwebio/html.git/html",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
