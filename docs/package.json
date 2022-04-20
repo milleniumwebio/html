@@ -1,13 +1,13 @@
 {
-  "name": "Milleniumweb.io",
+  "name": "milleniumweb.io",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "authors": {
-    "name": "Milleniumweb.io",
-    "email": "info@milleniumweb.io"
+    "name": "",
+    "email": ""
   },
-  "repository": "html/Milleniumweb.io",
+  "repository": "html/milleniumweb.io",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
